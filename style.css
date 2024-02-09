@@ -37,8 +37,6 @@ img{
     margin-top: 3rem;
     width: 8rem;
     height: 8rem;
-    -webkit-animation: rotate-center 0.6s ease-in-out both;
-	animation: rotate-center 0.6s ease-in-out both;
 }
 #btn{
     position: absolute;
@@ -52,9 +50,4 @@ img{
 #btn:hover{
     background-color: #D89216;
     color: #fff;
-    box-shadow: 2px 2px 5px 5px #D89216;
 }
-.rotate-center{
-    -webkit-animation:rotate-center .6s ease-in-out both;
-    animation:rotate-center .6s ease-in-out both}
-  
